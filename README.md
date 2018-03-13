@@ -27,8 +27,8 @@ Here are some helpful resources I found and followed while learning WebGL:
 
 ### Some screenshots from the game
 
-![screenshot](Screenshot1.png)
-![screenshot](Screenshot2.png)
+![screenshot](Screenshots/Screenshot1.png)
+![screenshot](Screenshots/Screenshot2.png)
 
 
 At the end, this game is not in the state I wanted it to be. In the future I want to add/fix:
